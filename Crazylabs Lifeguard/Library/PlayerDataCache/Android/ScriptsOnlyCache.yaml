@@ -1,0 +1,2350 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - CollisionScript
+    - LevelController
+    - Michsky.UI.ModernUIPack.AnimatedIconHandler
+    - Michsky.UI.ModernUIPack.ButtonManager
+    - Michsky.UI.ModernUIPack.ButtonManagerBasic
+    - Michsky.UI.ModernUIPack.ButtonManagerBasicIcon
+    - Michsky.UI.ModernUIPack.ButtonManagerBasicWithIcon
+    - Michsky.UI.ModernUIPack.ButtonManagerIcon
+    - Michsky.UI.ModernUIPack.ButtonManagerWithIcon
+    - Michsky.UI.ModernUIPack.ContextMenuManager
+    - Michsky.UI.ModernUIPack.CustomDropdown
+    - Michsky.UI.ModernUIPack.CustomInputField
+    - Michsky.UI.ModernUIPack.DemoTopButton
+    - Michsky.UI.ModernUIPack.DropdownMultiSelect
+    - Michsky.UI.ModernUIPack.HorizontalSelector
+    - Michsky.UI.ModernUIPack.LayoutGroupPositionFix
+    - Michsky.UI.ModernUIPack.ModalWindowManager
+    - Michsky.UI.ModernUIPack.ModalWindowTabs
+    - Michsky.UI.ModernUIPack.NotificationManager
+    - Michsky.UI.ModernUIPack.PBFilled
+    - Michsky.UI.ModernUIPack.ProgressBar
+    - Michsky.UI.ModernUIPack.RadialSlider
+    - Michsky.UI.ModernUIPack.RangeMaxSlider
+    - Michsky.UI.ModernUIPack.RangeMinSlider
+    - Michsky.UI.ModernUIPack.RangeSlider
+    - Michsky.UI.ModernUIPack.SliderManager
+    - Michsky.UI.ModernUIPack.SwitchManager
+    - Michsky.UI.ModernUIPack.ToggleAnim
+    - Michsky.UI.ModernUIPack.TooltipManager
+    - Michsky.UI.ModernUIPack.UIManager
+    - Michsky.UI.ModernUIPack.UIManagerAnimatedIcon
+    - Michsky.UI.ModernUIPack.UIManagerButton
+    - Michsky.UI.ModernUIPack.UIManagerContextMenu
+    - Michsky.UI.ModernUIPack.UIManagerDropdown
+    - Michsky.UI.ModernUIPack.UIManagerHSelector
+    - Michsky.UI.ModernUIPack.UIManagerInputField
+    - Michsky.UI.ModernUIPack.UIManagerModalWindow
+    - Michsky.UI.ModernUIPack.UIManagerNotification
+    - Michsky.UI.ModernUIPack.UIManagerProgressBar
+    - Michsky.UI.ModernUIPack.UIManagerProgressBarLoop
+    - Michsky.UI.ModernUIPack.UIManagerScrollbar
+    - Michsky.UI.ModernUIPack.UIManagerSlider
+    - Michsky.UI.ModernUIPack.UIManagerSwitch
+    - Michsky.UI.ModernUIPack.UIManagerToggle
+    - Michsky.UI.ModernUIPack.UIManagerTooltip
+    - Michsky.UI.ModernUIPack.WindowDragger
+    - Michsky.UI.ModernUIPack.WindowManager
+    - Movement
+    - RushMechanic
+    - StylizedWaterShader.EnableDepthBuffer
+    - StylizedWaterShader.StylizedWater
+    - UnityEngine.UI.Michsky.UI.ModernUIPack.UIGradient
+    - kameraTakip
+    - main
+    DOTween.dll:
+    - DG.Tweening.Core.DOTweenSettings
+    PaintIn3D.dll:
+    - PaintIn3D.Examples.P3dButtonClearAll
+    - PaintIn3D.P3dHitScreen
+    - PaintIn3D.P3dPaintSphere
+    - PaintIn3D.P3dPaintable
+    - PaintIn3D.P3dPaintableManager
+    - PaintIn3D.P3dPaintableTexture
+    Unity.Recorder.Editor.dll:
+    - UnityEditor.Recorder.MovieRecorderEditor
+    - UnityEditor.Recorder.MovieRecorderSettings
+    - UnityEditor.Recorder.RecorderControllerSettings
+    - UnityEditor.Recorder.RecorderSettingsPrefsEditor
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_InputField
+    - TMPro.TMP_SubMeshUI
+    - TMPro.TextMeshProUGUI
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
+    - UnityEngine.UI.ToggleGroup
+    - UnityEngine.UI.VerticalLayoutGroup
+  sceneClasses:
+    Assets/CRAZY/r1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 111
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 872}
+    - Class: 114
+      Script: {instanceID: 1716}
+    - Class: 114
+      Script: {instanceID: 1718}
+    - Class: 114
+      Script: {instanceID: 1720}
+    - Class: 114
+      Script: {instanceID: 1722}
+    - Class: 114
+      Script: {instanceID: 1724}
+    - Class: 114
+      Script: {instanceID: 1726}
+    - Class: 114
+      Script: {instanceID: 1728}
+    - Class: 114
+      Script: {instanceID: 1730}
+    - Class: 114
+      Script: {instanceID: 1816}
+    - Class: 114
+      Script: {instanceID: 1930}
+    - Class: 114
+      Script: {instanceID: 1962}
+    - Class: 114
+      Script: {instanceID: 1976}
+    - Class: 114
+      Script: {instanceID: 1998}
+    - Class: 114
+      Script: {instanceID: 2014}
+    - Class: 114
+      Script: {instanceID: 2066}
+    - Class: 114
+      Script: {instanceID: 2072}
+    - Class: 114
+      Script: {instanceID: 2098}
+    - Class: 114
+      Script: {instanceID: 2148}
+    - Class: 114
+      Script: {instanceID: 2162}
+    - Class: 114
+      Script: {instanceID: 2184}
+    - Class: 114
+      Script: {instanceID: 2224}
+    - Class: 114
+      Script: {instanceID: 2346}
+    - Class: 114
+      Script: {instanceID: 2374}
+    - Class: 114
+      Script: {instanceID: 2382}
+    - Class: 114
+      Script: {instanceID: 2404}
+    - Class: 114
+      Script: {instanceID: 2582}
+    - Class: 114
+      Script: {instanceID: 2596}
+    - Class: 114
+      Script: {instanceID: 2672}
+    - Class: 114
+      Script: {instanceID: 2724}
+    - Class: 114
+      Script: {instanceID: 2814}
+    - Class: 114
+      Script: {instanceID: 2824}
+    - Class: 114
+      Script: {instanceID: 2844}
+    - Class: 114
+      Script: {instanceID: 2884}
+    - Class: 114
+      Script: {instanceID: 2994}
+    - Class: 114
+      Script: {instanceID: 3046}
+    - Class: 114
+      Script: {instanceID: 3072}
+    - Class: 114
+      Script: {instanceID: 3078}
+    - Class: 114
+      Script: {instanceID: 3120}
+    - Class: 114
+      Script: {instanceID: 3136}
+    - Class: 114
+      Script: {instanceID: 3198}
+    - Class: 114
+      Script: {instanceID: 3218}
+    - Class: 114
+      Script: {instanceID: 3228}
+    - Class: 114
+      Script: {instanceID: 3238}
+    - Class: 114
+      Script: {instanceID: 3376}
+    - Class: 114
+      Script: {instanceID: 3480}
+    - Class: 114
+      Script: {instanceID: 3552}
+    - Class: 114
+      Script: {instanceID: 3560}
+    - Class: 114
+      Script: {instanceID: 3588}
+    - Class: 114
+      Script: {instanceID: 3594}
+    - Class: 114
+      Script: {instanceID: 3604}
+    - Class: 114
+      Script: {instanceID: 3728}
+    - Class: 114
+      Script: {instanceID: 3746}
+    - Class: 114
+      Script: {instanceID: 3792}
+    - Class: 114
+      Script: {instanceID: 3846}
+    - Class: 114
+      Script: {instanceID: 3876}
+    - Class: 114
+      Script: {instanceID: 3910}
+    - Class: 114
+      Script: {instanceID: 3940}
+    - Class: 114
+      Script: {instanceID: 4000}
+    - Class: 114
+      Script: {instanceID: 4148}
+    - Class: 114
+      Script: {instanceID: 4278}
+    - Class: 114
+      Script: {instanceID: 4498}
+    - Class: 114
+      Script: {instanceID: 4554}
+    - Class: 114
+      Script: {instanceID: 4572}
+    - Class: 114
+      Script: {instanceID: 4602}
+    - Class: 114
+      Script: {instanceID: 4676}
+    - Class: 114
+      Script: {instanceID: 4806}
+    - Class: 114
+      Script: {instanceID: 4832}
+    - Class: 114
+      Script: {instanceID: 4928}
+    - Class: 114
+      Script: {instanceID: 5016}
+    - Class: 114
+      Script: {instanceID: 5030}
+    - Class: 114
+      Script: {instanceID: 5078}
+    - Class: 114
+      Script: {instanceID: 5084}
+    - Class: 114
+      Script: {instanceID: 5112}
+    - Class: 114
+      Script: {instanceID: 5220}
+    - Class: 114
+      Script: {instanceID: 5304}
+    - Class: 114
+      Script: {instanceID: 5330}
+    - Class: 114
+      Script: {instanceID: 5386}
+    - Class: 114
+      Script: {instanceID: 5404}
+    - Class: 114
+      Script: {instanceID: 5422}
+    - Class: 114
+      Script: {instanceID: 5564}
+    - Class: 114
+      Script: {instanceID: 5632}
+    - Class: 114
+      Script: {instanceID: 5660}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c1a9f674a0adb63a55de94ca9f956039
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dDestroyAfterTime
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerSliderEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 694d20920c0e41f567e119f7159a3644
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePath
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine.PostFX
+    className: CinemachineVolumeSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 77aaaaa51f7a8d8ff333a879741e47d2
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: RadialSliderEditor
+  - hash:
+      serializedVersion: 2
+      Hash: d1762b048024cb9e8574bad83f0f8d82
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dVrManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMSignal
+  - hash:
+      serializedVersion: 2
+      Hash: 5fe78df651d784da8371b4e83619ff91
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dChannelCounterFill
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ProgressBarEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 6dd3dc11942e98c0a809c81f95fc960c
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineExternalCamera
+  - hash:
+      serializedVersion: 2
+      Hash: f11b61e100d9b6974425e7c09f288f7a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMTouchButton
+  - hash:
+      serializedVersion: 2
+      Hash: d35acf88626ca55f005c18eabdcb1418
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerInputField
+  - hash:
+      serializedVersion: 2
+      Hash: 09c5e6409c050de4d39d0fbc97a5fce0
+    assemblyName: ToonyColorsPro2.Demo.dll
+    namespaceName: ToonyColorsPro.Demo
+    className: TCP2_Demo_Camera
+  - hash:
+      serializedVersion: 2
+      Hash: 6bc76e17f0d5e93f3eea7f5a2fe227f3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 0f14ae31120a1e77b478059a5b14fb0a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: SliderManager
+  - hash:
+      serializedVersion: 2
+      Hash: ae20da6493a48ec6a8af7899dcb31507
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFreeLook
+  - hash:
+      serializedVersion: 2
+      Hash: e78709e690dc77916f3252ffe12b9d1f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTriggerAction
+  - hash:
+      serializedVersion: 2
+      Hash: 21a9c6dbf300fc1f6dc15ca7e2c39a37
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 77c879ce6a25c09ed57a5dfc93af602c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Movement
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 4ecd77b68b69ce05465a5b1ae59e5896
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dColorCounterText
+  - hash:
+      serializedVersion: 2
+      Hash: c882aebebbb66ad6ab8e65fd27531508
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RushMechanic
+  - hash:
+      serializedVersion: 2
+      Hash: 0885eff9bde37dae418a29ecff881f7b
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dColorCounterFill
+  - hash:
+      serializedVersion: 2
+      Hash: 300fd99066f8c288e85f5e81ce65fe34
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 97d5c50a6a3c994deab949d5611c9ba0
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dShape
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab46fb06ef0673bee82c783ea6dd285
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerNotification
+  - hash:
+      serializedVersion: 2
+      Hash: 313123b2dd8073c0be68433309fb4143
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: StylizedWaterShader
+    className: OrbitCamera
+  - hash:
+      serializedVersion: 2
+      Hash: cbae2ed2d2d53cc8f539e7cb4f29bc1f
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineCameraOffset
+  - hash:
+      serializedVersion: 2
+      Hash: dffe670db42bbf740acd61385de7fc14
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPaintSphere
+  - hash:
+      serializedVersion: 2
+      Hash: ba6f369c53748f32f5dc9712c3558ecb
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dActionOnEnable
+  - hash:
+      serializedVersion: 2
+      Hash: 17180c60760b273455134ad4f3163885
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerIcon
+  - hash:
+      serializedVersion: 2
+      Hash: 692d6bef9ae10d87a1b64c07cbe0dc58
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerToggle
+  - hash:
+      serializedVersion: 2
+      Hash: a2cb77a0952103b52a0d84fe00af5ea6
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dPaintFromCode
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: CustomDropdownEditor
+  - hash:
+      serializedVersion: 2
+      Hash: a2a190537bd48bfaa94460b49f94e12f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerAnimatedIcon
+  - hash:
+      serializedVersion: 2
+      Hash: 0d4c157119b65542ee29a12dd333ac27
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dMeshAnalysis
+  - hash:
+      serializedVersion: 2
+      Hash: 08bb3816fb1bb57f4289511c7a975a07
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7a307d2376f350b23f68240cf04863f3
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dDragPitchYaw
+  - hash:
+      serializedVersion: 2
+      Hash: f4ea9b26e779d32f657eedd4f8ac2214
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dHitBetween
+  - hash:
+      serializedVersion: 2
+      Hash: 6225eb0973ab0af667bc5f9d1b1b18de
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineCollider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: hareketKodu
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: finish
+  - hash:
+      serializedVersion: 2
+      Hash: d53a0f2640b8100ffb4404334930d028
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerHSelector
+  - hash:
+      serializedVersion: 2
+      Hash: 15882a52798c275361cd0a3ada984ec5
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineDollyCart
+  - hash:
+      serializedVersion: 2
+      Hash: bd50beb95120324d8c4e8386692b6e82
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBlenderSettings
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 63889984bc994e4168cd8d474b2f019d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ModalWindowTabs
+  - hash:
+      serializedVersion: 2
+      Hash: 95bf91f49dc872d89bb0abbb4fd6401e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: RangeMaxSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 1325af80e3c7d105d270065200d97e1d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ProgressBar
+  - hash:
+      serializedVersion: 2
+      Hash: 800c50acba124432abb4cf0d47202e06
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: c1ffb981313978885e9fe0d664fdc894
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dHitParticles
+  - hash:
+      serializedVersion: 2
+      Hash: a10992f7d1193e395b3020d79655ea1a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMSpriteReplace
+  - hash:
+      serializedVersion: 2
+      Hash: f1d735cc1a21c3704ab52568f4fbfcf8
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: b6542bdca0edcd169421a6f5be1ebec1
+    assemblyName: ToonyColorsPro2.Demo.dll
+    namespaceName: ToonyColorsPro.Demo
+    className: TCP2_Demo_PBS
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Donustur
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPaintableManager
+  - hash:
+      serializedVersion: 2
+      Hash: cb4ed16af1fefd2be2571cd382fb6dd1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerContextMenu
+  - hash:
+      serializedVersion: 2
+      Hash: c1d728126ff1918728036c59106d32b2
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 2e92a9ce39b0a96736d5c34b4a9676e5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: BallPusher
+  - hash:
+      serializedVersion: 2
+      Hash: 9fe566e9f3aaaa8d0fa665d10e348bf3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CollisionScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine.PostFX
+    className: CinemachinePostProcessing
+  - hash:
+      serializedVersion: 2
+      Hash: 2ce2187bbae6f802011f568630bd3d1f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineOrbitalTransposer
+  - hash:
+      serializedVersion: 2
+      Hash: bf914e92f505597cf82cec2d7d439991
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: PresetDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 063e5238d65060f6ac28f6158bab3397
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: PBFilled
+  - hash:
+      serializedVersion: 2
+      Hash: d8439c451a97403bfec66999e93e2268
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: ContinuousHapticsDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 4c432d64257651054b1dd3ef11e76655
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMNVAndroidWaveFormAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 284557966826d9317707481094f13c81
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManager
+  - hash:
+      serializedVersion: 2
+      Hash: 4911826b01978f54daa0d382ebbaa62f
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dChannelCounterText
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dButtonUndoAll
+  - hash:
+      serializedVersion: 2
+      Hash: b2c2da401f6e8ad468b1e42092a96526
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dReadColor
+  - hash:
+      serializedVersion: 2
+      Hash: cdae397d069a87828216aa38178e92df
+    assemblyName: ToonyColorsPro.Runtime.dll
+    namespaceName: ToonyColorsPro.Runtime
+    className: TCP2_PlanarReflection
+  - hash:
+      serializedVersion: 2
+      Hash: 62824bb9557c7e987502f2fbd2a26819
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBrain
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dUpgradeEventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 4a8a974e92ab8896a0695fec5b7408fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: RangeMinSlider
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 4f7bb6d1f354d770e633b76f0641c2a6
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dTapThrow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerBasicWithIconEditor
+  - hash:
+      serializedVersion: 2
+      Hash: df21ffd1864551a3e43410f28754a73e
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineConfiner
+  - hash:
+      serializedVersion: 2
+      Hash: dbfb4270852b0008a423a7418d9de4cf
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineSameAsFollowTarget
+  - hash:
+      serializedVersion: 2
+      Hash: e15a7dc0c399e994ed774d7a59ddabab
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: RangeSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dContext
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.UI.Michsky.UI.ModernUIPack
+    className: UIGradientEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 26c23f293a284efa75a36a508a2940ab
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dChangeCounterText
+  - hash:
+      serializedVersion: 2
+      Hash: 6915fdec141f453744ca05937c02a503
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPaintDecal
+  - hash:
+      serializedVersion: 2
+      Hash: cf576d442aeda5edc7f26f00ac745b50
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerBasicWithIcon
+  - hash:
+      serializedVersion: 2
+      Hash: c8f1a224e0a43adc56c91864de822dd3
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineVirtualCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerButtonEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 33211b91452683aa3687543d1f1440d5
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dGraduallyFade
+  - hash:
+      serializedVersion: 2
+      Hash: 2792936179724025482dc04d68a47ca7
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineClearShot
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Oy
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ModalWindowManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 3f65e49f51e069cc2ab51e374c5757bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: PowerBarElement
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: fe64a45214940b510a0ec79c96d43498
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a74405a4829a834d107a0c6e072719ed
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 68720e82621f002dff4245f4bc9ca34d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: TransientHapticsDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 760787567e1b60d64a3e421ab83ee14a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePipeline
+  - hash:
+      serializedVersion: 2
+      Hash: a71735f048bdb1e7817eebe10e15ff71
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: CustomDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: b103cc44a80d907fd10045fdbd845d14
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LevelController
+  - hash:
+      serializedVersion: 2
+      Hash: 0d85f4fda1e0e70cd92c084d12f05cdc
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dButtonIsolate
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: WindowManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 54832baa6e6e6a922c7b793306b00d03
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: HorizontalSelector
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineHardLookAt
+  - hash:
+      serializedVersion: 2
+      Hash: d64844960c06c8cc2bb12e45b017a5c9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: DemoListShadow
+  - hash:
+      serializedVersion: 2
+      Hash: d39e72ddd05501c3b6019f0a9ed8d7c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: Pagination
+  - hash:
+      serializedVersion: 2
+      Hash: 9d3997386a4718b31c802c7b5ba9bf1b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 64a2c6290be43dffb9b123cd81804930
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: BallDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 9622d8561e847aa784f09412f49fdd62
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dToggleParticles
+  - hash:
+      serializedVersion: 2
+      Hash: ab39682cc284aa1c151bead38ea11135
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: RegularPresetsDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: a0fccffe6fb28ffde405e123c1ccb4a5
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dChannelCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 23049ad92cb31580529b58e19863ca45
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: main
+  - hash:
+      serializedVersion: 2
+      Hash: ac057dbc932aba7f7d9b1f51fa8f4dcf
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dMask
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: SliderManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: kameraTakip
+  - hash:
+      serializedVersion: 2
+      Hash: f7a04848083d53d1cc7d9a75f1a4478b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: WobbleButton
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 2dc8930d35c4d2e0b642cefbcb41343a
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dSpiral
+  - hash:
+      serializedVersion: 2
+      Hash: b5c65c38c99828bd010cafd9b195039f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: DropdownMultiSelect
+  - hash:
+      serializedVersion: 2
+      Hash: 59c16d85a83c01d58c4c7d7927891937
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: StylizedWaterShader
+    className: StylizedWaterShadowCaster
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: a306e12d896ddcca949923c805691027
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 25c391c825ebcd0d3d9622edd606cb84
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dColor
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineInputProvider
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 300c75e8903f0b8f61e4a82d9047c621
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: TooltipManager
+  - hash:
+      serializedVersion: 2
+      Hash: 5e84370a36252d6aa37d6a7bd37710f7
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: Cinemachine3rdPersonFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 49101319b21043357cb80c5aba043e1d
+    assemblyName: Unity.Recorder.dll
+    namespaceName: UnityEngine.Recorder
+    className: RecorderBindings
+  - hash:
+      serializedVersion: 2
+      Hash: f7858108331b563fb41b80b729297acd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 8d45f3d2842c46037a92296d0b004f7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMFPSCounter
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 68acc1aaba161e994f054a225990779b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: BallTouchZone
+  - hash:
+      serializedVersion: 2
+      Hash: 23066ceca838af0cf02e00e3cf5155c1
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineImpulseSource
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: fb79fb88447c900d4d63e78d78a0a02e
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPaintableTexture
+  - hash:
+      serializedVersion: 2
+      Hash: e12f889159a1df4f7fb0a7b26c33ee3a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.UI.Michsky.UI.ModernUIPack
+    className: UIGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UpgradeEfekt
+  - hash:
+      serializedVersion: 2
+      Hash: b639d97cb780d0d99a2bfb3ad1935732
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineMixingCamera
+  - hash:
+      serializedVersion: 2
+      Hash: a66794b62dbf044668a5f102bb7908c2
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineImpulseListener
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 6fc5b39ac6da1609dc92d974cd95d39a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerBasicIcon
+  - hash:
+      serializedVersion: 2
+      Hash: ad414eeb94134c1b0331356405c13b1f
+    assemblyName: ToonyColorsPro2.Demo.dll
+    namespaceName: ToonyColorsPro.Demo
+    className: TCP2_Demo_GammaLinear
+  - hash:
+      serializedVersion: 2
+      Hash: 1e55113bd789b512fe82892a7b82382d
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: takip
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ContextMenuManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 14e2d1ce1d0128b8d4fbb1d257e4f218
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dColorCounterEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerBasicEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 166e3f680ecf9df8a1665afb8a1ebcc8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: CarDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 927080e56c51e9e97a1d741574d8c374
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMProgressBar
+  - hash:
+      serializedVersion: 2
+      Hash: f310a46eb879fe7d0f3af3eedd11b7a7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerModalWindow
+  - hash:
+      serializedVersion: 2
+      Hash: a14baf2a1cb11782e81a65254c08e1a2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: AnimatedIconHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 0d4c157119b65542ee29a12dd333ac27
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dEditorWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 20c9a74d659b6895cfdb5f4624ba8daa
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dPaintMultiplayer
+  - hash:
+      serializedVersion: 2
+      Hash: 72672669ab6d45e3ed5be3b06af1ac15
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dPaintDebug
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 6ff1c52123c50b3d73f35cd0e2e65dfd
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineSmoothPath
+  - hash:
+      serializedVersion: 2
+      Hash: 6ea07c3234552bdf00a72959f9899af8
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dChangeCounterEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: DemoTopButton
+  - hash:
+      serializedVersion: 2
+      Hash: f6b4756d4470fa625d367b30639b2c73
+    assemblyName: ToonyColorsPro2.Demo.dll
+    namespaceName: ToonyColorsPro.Demo
+    className: TCP2_Demo
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: BallDemoWall
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: LayoutGroupPositionFix
+  - hash:
+      serializedVersion: 2
+      Hash: 20240431c815058690a3ba9bdfb91802
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LookCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePixelPerfect
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerWithIconEditor
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 4a11cfefeec03e5095f7b3195766c3a1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ModalWindowManager
+  - hash:
+      serializedVersion: 2
+      Hash: e87e4a4b53652e3121c1de39d982a768
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: LaunchURL
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 8ab4801dca5cf40a0b26c5fbc120174e
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPaintReplace
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 704dcd31abc789439bc3f3cd10b58c2b
+    assemblyName: DOTween.dll
+    namespaceName: DG.Tweening.Core
+    className: DOTweenComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 9b2663563359a91d0a6867fee160c936
+    assemblyName: DOTween.dll
+    namespaceName: DG.Tweening.Core
+    className: DOTweenSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 9e6bf87e1391f8895660934883fc8c41
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dHitThrough
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: DropdownMultiSelectEditor
+  - hash:
+      serializedVersion: 2
+      Hash: d227987243593b32ae57394d06018643
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFixedSignal
+  - hash:
+      serializedVersion: 2
+      Hash: f572fb6d060d8ebb203723e312dfd52e
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dInputAxis
+  - hash:
+      serializedVersion: 2
+      Hash: 617ec4cc0a7ef9f61bb230fc94cfc960
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dSeamFixer
+  - hash:
+      serializedVersion: 2
+      Hash: f131b3153e572012a66b3c5bf297a19a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerController
+  - hash:
+      serializedVersion: 2
+      Hash: 629606a35f65d80d81db7785075b4762
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: SoundSwitch
+  - hash:
+      serializedVersion: 2
+      Hash: 071dfef13c5ddb9d2dfa20ff7aeb6135
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dCoordCopier
+  - hash:
+      serializedVersion: 2
+      Hash: 611bc970ee9dc090779a3fac6a18fac6
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFramingTransposer
+  - hash:
+      serializedVersion: 2
+      Hash: 97458941276b55261cf66d7d7adba4cd
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dModel
+  - hash:
+      serializedVersion: 2
+      Hash: 8963690ef6f6b05ce03bfd8b5c26e20c
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: NoiseSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: da4cc51a02ce84afe2cecd27cfe6997a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: fe1590d36cce309023e7cf43ff16d87c
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dChangeCounterFill
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 901c327299b936b00e0056af7cdbc155
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerBasic
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7c792393fb82488bd20139dcc5ba26d8
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTransposer
+  - hash:
+      serializedVersion: 2
+      Hash: d273218eaab4c2a1e17bcc1aed8f8995
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: StylizedWaterShader
+    className: StylizedWaterResources
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 134322c9293c1896357cce271b819ce4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: d8a422018ec06aded5071b7bf260f85c
+    assemblyName: ToonyColorsPro2.Demo.dll
+    namespaceName: 
+    className: TCP2_Demo_AutoRotate
+  - hash:
+      serializedVersion: 2
+      Hash: eeb356fa33eec10332ebc7e468fecb95
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineShot
+  - hash:
+      serializedVersion: 2
+      Hash: d52ef50935acde091817dbf0febd7242
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: V2DemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: a81d4c2c1cf3ad164d277d927a193679
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerProgressBarLoopEditor
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a66794b62dbf044668a5f102bb7908c2
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineIndependentImpulseListener
+  - hash:
+      serializedVersion: 2
+      Hash: 49373f498f8b556728dad21083e07b73
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: WobbleDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 5fb0a437811e2f8fa198f0eb0356d03a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ContextMenuContent
+  - hash:
+      serializedVersion: 2
+      Hash: 5f9ba098ba95458aeec541db07ba4b00
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dRotate
+  - hash:
+      serializedVersion: 2
+      Hash: e6614c107beec4ad85c80ff6ad11add9
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPaintFill
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dButtonRedoAll
+  - hash:
+      serializedVersion: 2
+      Hash: 50144b95ce1d4d0ca407b2a0773e8432
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMFPSUnlock
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 204ea02909ea3f738dafe3ff633d2a93
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTrackedDolly
+  - hash:
+      serializedVersion: 2
+      Hash: b23aa27490d13797fba4e0127c57fbf7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMUIShaker
+  - hash:
+      serializedVersion: 2
+      Hash: fb237a12fc73c1509df198d390ee6401
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ContextMenuManager
+  - hash:
+      serializedVersion: 2
+      Hash: 0f46123eb60a6cce1399824f93fe8219
+    assemblyName: ToonyColorsPro2.Demo.dll
+    namespaceName: ToonyColorsPro.Demo
+    className: TCP2_Demo_View
+  - hash:
+      serializedVersion: 2
+      Hash: 97d5c50a6a3c994deab949d5611c9ba0
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dTool
+  - hash:
+      serializedVersion: 2
+      Hash: 2afc487f389667b13afc145482febfb3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: HapticCurve
+  - hash:
+      serializedVersion: 2
+      Hash: 8dad8dbb22986a00d70b99ffcb3690a5
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dGroupData
+  - hash:
+      serializedVersion: 2
+      Hash: 7b3e702b98a2c6d89cfaaa14ae3d2293
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: StylizedWaterShader
+    className: StylizedWater
+  - hash:
+      serializedVersion: 2
+      Hash: 8ce4d11bf9234817a4ad17b0388592d5
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dReadColorEvent
+  - hash:
+      serializedVersion: 2
+      Hash: d15e259c364b712d6a8749fb44cb4f30
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: CustomInputField
+  - hash:
+      serializedVersion: 2
+      Hash: 89dd6fe49fc4611c20a8431b611eecfc
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dMaterialCloner
+  - hash:
+      serializedVersion: 2
+      Hash: 379f4a764cb25430bccc9cce2eda2d3f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: NiceVibrationsDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: ceef109cf0dd317b0c916cf79105eaca
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPaintable
+  - hash:
+      serializedVersion: 2
+      Hash: 1ea55d7abe2307363a713249b70fc2ed
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dGuide
+  - hash:
+      serializedVersion: 2
+      Hash: e6d75f1a9bc0c6f7085df0baa077e688
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineGroupComposer
+  - hash:
+      serializedVersion: 2
+      Hash: 4289f761fb06d9ad64f58db11d004e1e
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dProceduralSetup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: be0af4b142f25976c86938456009673d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: b349f6cc93b46de44e0bd4361aabbcb2
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dCloneMirror
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 908b3077da284d11de0450423ca1808e
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 92867b175009e2746a3354d841c1c8e3
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dVrTool
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: NotificationManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: cee47710350b74dadea6e993236075b4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: TooltipContent
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: b428f7c75340cbc1ccd3f8dc35969635
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: BallDemoBall
+  - hash:
+      serializedVersion: 2
+      Hash: 1e3d6222ff533d213aab144eb854a53b
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineTouchInputMapper
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b5eb08b578a2f2d80bb106cbe65ab501
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineStoryboard
+  - hash:
+      serializedVersion: 2
+      Hash: 66bca5cc6a18c5298ec75235e56a84d6
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dDestroyer
+  - hash:
+      serializedVersion: 2
+      Hash: 12a825b52bd19f9c163c2c4b9548d867
+    assemblyName: ToonyColorsPro.Runtime.dll
+    namespaceName: ToonyColorsPro.Runtime
+    className: TCP2_GetPosOnWater
+  - hash:
+      serializedVersion: 2
+      Hash: 0b760eb7c486d4d51766862c26cc01ef
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerTooltip
+  - hash:
+      serializedVersion: 2
+      Hash: b19ff757f70ba019b7c8474ac4484482
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dColorCounter
+  - hash:
+      serializedVersion: 2
+      Hash: ffd3ed4fcd23b3e7745287c99a637247
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: Cinemachine3rdPersonAim
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: ebb8034722fa6b8c08878e537ffad932
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerWithIcon
+  - hash:
+      serializedVersion: 2
+      Hash: 23d669c8bf2983ca4a3df160658318a6
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineStateDrivenCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: HorizontalSelectorEditor
+  - hash:
+      serializedVersion: 2
+      Hash: bee13f8592d9b041491c09d14d2a4202
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: DemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7ffbb3f92ea27f70bb5deca6312414ef
+    assemblyName: ToonyColorsPro2.Demo.dll
+    namespaceName: ToonyColorsPro.Demo
+    className: TCP2_Demo_Cat
+  - hash:
+      serializedVersion: 2
+      Hash: 89d1160cac5ba600a3918677d3790af2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMSwitch
+  - hash:
+      serializedVersion: 2
+      Hash: b9f6fc307bf8c57490d5a924365ea244
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerSwitch
+  - hash:
+      serializedVersion: 2
+      Hash: dbfb4270852b0008a423a7418d9de4cf
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineHardLockToTarget
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: TooltipManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: ee20d80db0e71b45fa52fb7b04c4606c
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dButtonLink
+  - hash:
+      serializedVersion: 2
+      Hash: af56f77a30c1a2da1680c736a6f5c6e8
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: GroupWeightManipulator
+  - hash:
+      serializedVersion: 2
+      Hash: 828e8668dab4eff93513e3a0a29f4b09
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dHitScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 48065ce3dbe07a066dbc8f020ccbb6e8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerScrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 56df1fa7cea034df9863fe5a24200a32
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTargetGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 4e06a4224f627b3a0db683d25c23d5d0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: SwitchManager
+  - hash:
+      serializedVersion: 2
+      Hash: 6980e81ddc615a861309d2d659cc3760
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 2122c42aac0c44e0cd7ed01910b598fb
+    assemblyName: ToonyColorsPro2.Demo.dll
+    namespaceName: ToonyColorsPro.Demo
+    className: TCP2_Demo_PBS_View
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dRenderingPipeline
+  - hash:
+      serializedVersion: 2
+      Hash: 270bc4550778a1f5d6260bae8f25d706
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ToggleAnim
+  - hash:
+      serializedVersion: 2
+      Hash: fd55381c98d1eee4a454a6a67deffb77
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dTranslate
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIElementInFront
+  - hash:
+      serializedVersion: 2
+      Hash: 3b643e59d2c776e1078d2bdfe292cfe3
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dChangeCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 1ee5d6f1269380957b70c0a2d1ad97a9
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPaintReplaceChannels
+  - hash:
+      serializedVersion: 2
+      Hash: 0d4c157119b65542ee29a12dd333ac27
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dWindow
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 20af7e083414a32304174f69af002363
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerButton
+  - hash:
+      serializedVersion: 2
+      Hash: e0d90b9f699487f667d8984c63854b60
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dToggleScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: ToonyColorsPro.Runtime.dll
+    namespaceName: ToonyColorsPro.Runtime
+    className: TCP2_ShaderUpdateUnityTime
+  - hash:
+      serializedVersion: 2
+      Hash: 60bf9ae23ce349b7a4650d4cb81358dd
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 32fce7b97c39bff4b4f6c0f53f7e6bf1
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineCollisionImpulseSource
+  - hash:
+      serializedVersion: 2
+      Hash: a852408a86aa373da4d3320c482b2947
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerProgressBar
+  - hash:
+      serializedVersion: 2
+      Hash: 37de53a49708b087da4050fc1ca7a6ee
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePOV
+  - hash:
+      serializedVersion: 2
+      Hash: 9d14b555ff2e9e9391344635bf0d2152
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: engeller
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: StylizedWaterShader
+    className: EnableDepthBuffer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: SwitchManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 66a76d307baa3e8eb65d877c961f1b43
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineRecomposer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerIconEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 3d7931eee79156476e4b262fa708acdd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: RadialSlider
+  - hash:
+      serializedVersion: 2
+      Hash: a4ab9532686dbd13bc2c5bb58a3781ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MouseLook
+  - hash:
+      serializedVersion: 2
+      Hash: 8bece1d5dedaa6be3dd7eab54f56caf6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: WindowDragger
+  - hash:
+      serializedVersion: 2
+      Hash: d12101a393b60ad83be4621361adf3c2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: NotificationManager
+  - hash:
+      serializedVersion: 2
+      Hash: b5c3dbcb94925c8b595ad16a62b44788
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBasicMultiChannelPerlin
+  - hash:
+      serializedVersion: 2
+      Hash: f9a3fa795fdc45b44f33cc2a28c5a2ca
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SkyboxChanger
+  - hash:
+      serializedVersion: 2
+      Hash: 12ae35e07166271806d86b0e2941a6e7
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dHitCollisions
+  - hash:
+      serializedVersion: 2
+      Hash: a738e7ec5d768cfaf6e5411c2ef6987d
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dHitNearby
+  - hash:
+      serializedVersion: 2
+      Hash: dc9e318326bf89001e1c59c6bb98abc2
+    assemblyName: ToonyColorsPro.Runtime.dll
+    namespaceName: ToonyColorsPro.Runtime
+    className: TCP2_CameraDepth
+  - hash:
+      serializedVersion: 2
+      Hash: 59d586fea9e734e7ab4fc8dcca1b217d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MoreMountains.NiceVibrations
+    className: MMKnob
+  - hash:
+      serializedVersion: 2
+      Hash: 946ba6d4a5bcec9d6a0f4f14b020563d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IconPreview
+  - hash:
+      serializedVersion: 2
+      Hash: 42171e0171d2ef8b94cc5618d4d4f0e5
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dChannelCounterEvent
+  - hash:
+      serializedVersion: 2
+      Hash: ef2715046c3edf6ebd87825ee543bc85
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: WindowManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 61070ca1f91b0352a5ceecf392ec06d1
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D.Examples
+    className: P3dButtonClearAll
+  - hash:
+      serializedVersion: 2
+      Hash: a9fcdcb155d0f77b4f53b82879ced522
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: NotificationStacking
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: ButtonManagerBasicIconEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 0c0fc931324e8f4d770c367a3fb22878
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Michsky.UI.ModernUIPack
+    className: UIManagerProgressBarLoop
+  - hash:
+      serializedVersion: 2
+      Hash: bd543bad7f9f6262f10595aadb130d22
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineComposer
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: a2113831d3323f931007e1b3812dc814
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFollowZoom
+  - hash:
+      serializedVersion: 2
+      Hash: dded1f04afc3c94e43d53264cad29df3
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dMaterial
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 4a639215e29265dd99e4fed19e3fa9f4
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBlendListCamera
+  - hash:
+      serializedVersion: 2
+      Hash: d742edbdcd29bc6a6f5cb7bd762a91c6
+    assemblyName: PaintIn3D.dll
+    namespaceName: PaintIn3D
+    className: P3dPreset
+  - hash:
+      serializedVersion: 2
+      Hash: f27e5ff41cea97e78bf61b3beed30526
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: StylizedWaterShader
+    className: StylizedWaterBlur
+  - hash:
+      serializedVersion: 2
+      Hash: 71993e65482306e147232d359c2a9281
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MaterialChanger
+  platform: 13
+  scenePathNames:
+  - Assets/CRAZY/r1.unity
+  playerPath: C:/Users/EY Games/Downloads/CrazyLabs/Crazylabs Lifeguard/son.apk
